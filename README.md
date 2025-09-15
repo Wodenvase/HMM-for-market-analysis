@@ -8,6 +8,7 @@ This project develops a sophisticated machine learning system to identify and ad
 
 **Figure 1:** HMM identifying three distinct market regimes (Calm/Bullish, High-Volatility/Crash, Neutral/Choppy) on the historical S&P 500 price chart.
 
+![Market Regime Detection Screenshot](market_regimes.png)
 ---
 
 ## 🔎 Overview
